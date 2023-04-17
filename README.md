@@ -1,1 +1,1 @@
-## Hi there! <img src="https://raw.githubusercontent.com/farahzakaria/farahzakaria/master/img/wave.gif" width="30">
+## Hi there! <img src="https://raw.githubusercontent.com/farahzakaria/farah/master/img/wave.gif" width="30">
